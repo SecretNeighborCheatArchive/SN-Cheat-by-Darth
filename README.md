@@ -1,4 +1,4 @@
-# SN Cheat by Darth
+# SN Alpha Cheat by Darth
 Darth's first cheat for SN alpha. The mod was paid and had to be injected using a Mono injector. </br>
 </br>
 **Note: The source was recovered from an unknown version of the mod assembly using dnSpy; it might not be accurate.**
