@@ -1,5 +1,5 @@
-# SN Alpha Cheat by Darth
-Darth's first cheat for SN alpha. The mod was paid and had to be injected using a Mono injector. </br>
+# SN Cheat by Darth
+Darth's first cheat for SN. The mod was paid and had to be injected using a Mono injector. </br>
 The project dates back to somewhere between 2019 and 2020. </br>
 </br>
 **Note: The source was recovered from an unknown version of the mod assembly using dnSpy; it might not be accurate.**
